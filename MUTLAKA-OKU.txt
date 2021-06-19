@@ -1,0 +1,22 @@
+DÜZENLENECEK DOSYALAR VE SATIR NUMARALARI AŞAĞIDA YAZDIĞI GİBİDİR!
+
+/* ayarlar.json */
+TAMAMI
+
+/* bot.js */
+20 - 49 - 58 - 66 - 67 - 68 - 69
+
+/* erkek.js */
+7 - 45 - 53 - 63
+
+/* kadın.js */
+7 - 45 - 53 - 63
+
+/* kayıt-bilgi.js */
+7
+
+/* yetki-ver.js */
+9 - 10 - 12 - 17 - 19
+
+/* yetkili-bilgi.js */
+10 - 11
