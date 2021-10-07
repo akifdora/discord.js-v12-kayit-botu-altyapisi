@@ -3,4 +3,4 @@ Bu bot altyapısı Akif DORA tarafından hazırlanmış/düzenlenmiştir. Gönü
 
 **İLETİŞİM**
 > Benimle iletişim kurmak için linke tıklayabilirsiniz!<br>
-> https://linktr.ee/akifdora
+> https://akifdora.github.io
